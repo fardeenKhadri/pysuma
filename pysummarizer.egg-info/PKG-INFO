@@ -1,4 +1,27 @@
-# pysuma
+Metadata-Version: 2.2
+Name: pysuma
+Version: 0.1.0
+Summary: A flexible text summarization library supporting extractive and abstractive methods.
+Home-page: https://github.com/fardeenKhadri/pysuma
+Author: Fardeen Khadri
+Author-email: FARDEEN KHADRI <fardeeinshakhadrii@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/pysuma
+Project-URL: Repository, https://github.com/yourusername/pysuma
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: nltk
+Requires-Dist: sumy
+Requires-Dist: transformers
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
 
 ### **🚀 PySummarizer - The Ultimate Text Summarization Library**
 
@@ -100,7 +123,6 @@ PySummarizer is released under the **MIT License**, making it **open-source and 
 ---
 
 🎯 **Transform lengthy PDFs into structured insights with PySummarizer today!**  
-🔗 **Contribute or explore more:** [GitHub Repository](https://github.com/fardeenKhadri/pysuma)
-```
+🔗 **Contribute or explore more:** [GitHub Repository](https://github.com/fardeenKhadri/pysuma)  
 
----
+
