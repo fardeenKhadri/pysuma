@@ -2,7 +2,7 @@
 
 ### **🚀 Python Summarizing Assistant - The Ultimate Text Summarization Library**
 
-PySummarizer is a **powerful and intelligent** text summarization library designed for both **extractive** and **abstractive** summarization. It efficiently extracts key insights from PDFs and presents them in a structured, **bullet-point format**, making it perfect for academic research, content summarization, and AI-driven automation.
+pysuma is a **powerful and intelligent** text summarization library designed for both **extractive** and **abstractive** summarization. It efficiently extracts key insights from PDFs and presents them in a structured, **bullet-point format**, making it perfect for academic research, content summarization, and AI-driven automation.
 
 ---
 
