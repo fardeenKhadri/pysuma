@@ -99,6 +99,3 @@ PySummarizer is released under the **MIT License**, making it **open-source and 
 
 🎯 **Transform lengthy PDFs into structured insights with PySummarizer today!**  
 🔗 **Contribute or explore more:** [GitHub Repository](https://github.com/fardeenKhadri/pysuma)
-```
-
----
